@@ -1,0 +1,14 @@
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\bin\Debug\net7.0\SistemaEstacionamento.exe
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\bin\Debug\net7.0\SistemaEstacionamento.deps.json
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\bin\Debug\net7.0\SistemaEstacionamento.runtimeconfig.json
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\bin\Debug\net7.0\SistemaEstacionamento.dll
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\bin\Debug\net7.0\SistemaEstacionamento.pdb
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.AssemblyInfo.cs
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.dll
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\obj\Debug\net7.0\refint\SistemaEstacionamento.dll
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.pdb
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.genruntimeconfig.cache
+C:\Users\artillis.prado\source\repos\SistemaEstacionamento\obj\Debug\net7.0\ref\SistemaEstacionamento.dll
